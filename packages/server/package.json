@@ -62,7 +62,7 @@
     "eslint-config-airbnb-base": "14.0.0",
     "eslint-plugin-import": "2.20.0",
     "express-swagger-generator": "1.1.17",
-    "gts": "1.1.0",
+    "gts": "2.0.0",
     "jest": "24.9.0",
     "pino-pretty": "4.0.0",
     "ts-jest": "24.3.0",
