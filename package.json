@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pharindoko/json-serverless.git"
+    "url": "git+https://github.com/itsmeasik/json-serverless.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pharindoko/json-serverless/issues"
+    "url": "https://github.com/itsmeasik/json-serverless/issues"
   },
-  "homepage": "https://github.com/pharindoko/json-serverless.git#readme",
+  "homepage": "https://github.com/itsmeasik/json-serverless.git#readme",
   "devDependencies": {
     "cz-conventional-changelog": "3.0.2"
   },
